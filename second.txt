@@ -1,3 +1,7 @@
 second file asdlfkj
+<<<<<<< HEAD
 adf
+=======
+asdfadded for conflict
+>>>>>>> hari
 adsf
